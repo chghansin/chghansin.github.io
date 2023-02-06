@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Hansin Chegal"
-  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "https://media.licdn.com/dms/image/D5603AQFpciwAFP0BrA/profile-displayphoto-shrink_800_800/0/1675700542145?e=1681344000&v=beta&t=r7Rwc-f1qyah9EWrB5pMgDFa7gTkCcK4q6uIIchWvSQ" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "RMIT University-Bachelor of Engineering (Honours)-Robotics & Mechatronics"
   location         : "TP.HCM"
   email            : "qqwlald123@gmail.com"
