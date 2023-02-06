@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Hansin Chegal"
-  avatar           :![Hansin_Pic.png](https://drive.google.com/uc?export=view&id=1ZQVZhvKmjoUDX70zqRdGs4GDw7m3YtIv)# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :![Hansin_Pic.png](https://drive.google.com/uc?export=view&id=1ZQVZhvKmjoUDX70zqRdGs4GDw7m3YtIv) # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "RMIT University-Bachelor of Engineering (Honours)-Robotics & Mechatronics"
   location         : "TP.HCM"
   email            : "qqwlald123@gmail.com"
