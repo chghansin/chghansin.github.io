@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Technology Leadership"
+title                    : "Hansin Chegal Projects"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hansin"
-description              : "RMIT Technology Leadership self-development"
+name                     : "Hansin Chegal"
+description              : "RMIT University-Bachelor of Engineering (Honours)-Robotics & Mechatronics"
 url                      : "https://chghansin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hansin"
+  name             : "Hansin Chegal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "RMIT Technology Leadership self-development"
+  bio              : "Project"
   location         : "TP.HCM"
   email            :
   links:
