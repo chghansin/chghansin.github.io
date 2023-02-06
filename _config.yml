@@ -107,7 +107,7 @@ author:
   location         : "TP.HCM"
   email            : "qqwlald123@gmail.com"
   links:
-    - label: "Email"
+    - label: "Email: qqwlald123@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
